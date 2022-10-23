@@ -54,6 +54,7 @@ const debounceTimer = (fn, msec) => {
 
   const ausn = document.querySelector(".ausn");
   const formAusn = ausn.querySelector(".calc__form");
+
   const resultTaxTotal = ausn.querySelector(".result__tax_total");
   const calcLabelExpenses = ausn.querySelector(".calc__label_expenses");
 
